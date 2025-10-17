@@ -11,6 +11,9 @@ Visualization of the process of Delaunay triangulation using the Bowyer-Watson a
 7. Rinse and repeat
 
 Circumcircle is highlighted by a red dotted circle
+
 Bad triangles are highlighted with a red outline
+
 New triangles being inserted are highlighted in green
-The polygon are highlighted in yello edges and filled in
+
+The polygon are highlighted in yellow edges and filled in
